@@ -1,16 +1,20 @@
-## Hi there 👋
+# Denis Zapekin
 
-<!--
-**DenZ1971/DenZ1971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PHP / Symfony Developer based in Slovakia.
 
-Here are some ideas to get you started:
+I build backend services and business applications with PHP, Symfony, Doctrine ORM, REST APIs, PHPUnit and Docker. I also have experience with React, Django and multilingual static websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- [Symfony Document Workflow](https://github.com/DenZ1971/symfony-document-workflow) — REST API for customer and document lifecycle management using Symfony Workflow and Doctrine ORM.
+- [SuperFaktura Assignment](https://github.com/DenZ1971/superfaktura-assignment) — PHP 8.3 solutions including an ARES registry client, IČO validation and PHPUnit tests.
+- [GARLIBOOST Website](https://github.com/DenZ1971/Garliboost_page) — multilingual static website with a Python generator, accessibility checks and SEO metadata.
+- [Shocolana Landing Page](https://github.com/DenZ1971/shokolana_sale) — responsive multilingual product landing page deployed on GitHub Pages.
+
+## Main technologies
+
+`PHP` · `Symfony` · `Doctrine ORM` · `REST API` · `PHPUnit` · `Docker` · `MySQL` · `GitLab CI/CD` · `PHPStan`
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/denis-zapekin/)
